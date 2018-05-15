@@ -1,7 +1,7 @@
 {
   "name": "sketch-style-to-react-native",
   "description": "Sketch plugin that copies an element's styles in React Native way directly to your Mac clipboard.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "sketch": ">=3.0"
   },
