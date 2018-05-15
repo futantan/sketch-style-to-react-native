@@ -4,15 +4,16 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Copy CSS",
+      "identifier": "style-to-RN-copyCSS-identifier",
+      "script": "./copyCSS.js",
+      "shortcut": "command control c"
     }
   ],
   "menu": {
     "title": "sketch-style-to-react-native",
     "items": [
-      "my-command-identifier"
+      "style-to-RN-copyCSS-identifier"
     ]
   }
 }
