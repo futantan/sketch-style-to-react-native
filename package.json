@@ -12,6 +12,10 @@
       "assets/**/*"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:futantan/sketch-style-to-react-native.git"
+  },
   "scripts": {
     "build": "skpm-build",
     "watch": "skpm-build --watch",
